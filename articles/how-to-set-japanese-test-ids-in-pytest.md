@@ -3,7 +3,7 @@ title: "pytest のパラメーター化テストに日本語の ID を設定す�
 emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["python", "pytest", "初心者"]
-published: false
+published: true
 published_at: 2025-12-28 19:03
 ---
 
