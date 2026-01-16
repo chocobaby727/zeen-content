@@ -126,12 +126,12 @@ configfile: pyproject.toml
 plugins: anyio-4.10.0, mock-3.14.1
 collected 6 items                                                                                                                                                 
 
-sample.py::test_sampleparametrize_ids[テスト1] PASSED                                                                                                 [ 16%]
-sample.py::test_sampleparametrize_ids[テスト2] PASSED                                                                                                 [ 33%]
-sample.py::test_sampleparametrize_ids[テスト3] PASSED                                                                                                 [ 50%]
-sample.py::test_sample_param_id[\u30c6\u30b9\u30c81] PASSED                                                                                          [ 66%]
-sample.py::test_sample_param_id[\u30c6\u30b9\u30c82] PASSED                                                                                          [ 83%]
-sample.py::test_sample_param_id[\u30c6\u30b9\u30c83] PASSED                                                                                          [100%]
+sample.py::test_parametrize_ids[テスト1] PASSED                                                                                                 [ 16%]
+sample.py::test_parametrize_ids[テスト2] PASSED                                                                                                 [ 33%]
+sample.py::test_parametrize_ids[テスト3] PASSED                                                                                                 [ 50%]
+sample.py::test_param_id[\u30c6\u30b9\u30c81] PASSED                                                                                          [ 66%]
+sample.py::test_param_id[\u30c6\u30b9\u30c82] PASSED                                                                                          [ 83%]
+sample.py::test_param_id[\u30c6\u30b9\u30c83] PASSED                                                                                          [100%]
 
 ===================================================================== 6 passed in 0.01s =====================================================================
 ```
